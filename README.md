@@ -11,6 +11,7 @@ In order to conduct analysis on how the ride-sharing data differed based on the 
 The PyBer Summary Data Frame hones in on the drastic difference between total fares by city type and the average fare per driver by city type.  
 
 PyBer Summary DataFrame:
+
 ![PyBer Summary DataFrame](https://github.com/matthewdouglasmartin/PyBer_Analysis/blob/main/analysis/PyBer_Summary_DF.png)
 
 When comparing the total fares for Rural cities to the total fares of Urban cities, total fares for Urban cities are nine times the total of total fares for Rural cities ($39,854.38 and $4,327.93 respectively).  In addition, the average fare per driver for Rural cities is $55.49 while it is $16.57 for Urban cities.  Suburban cities' total fares are $19,356.33 and their average fare per driver is $39.50, landing between those of Rural and Urban cities.  One main factor that causes the average fare per drive of Urban cities to be so much lower than that of Rural cities is due to Urban cities' total number of drivers.  Urban cities have 1.4 times more drivers than rides, whereas Rural cities have just over half as many drivers as it does rides.  
